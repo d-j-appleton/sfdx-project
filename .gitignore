@@ -22,7 +22,7 @@ node_modules/
 
 # MacOS system files
 .DS_Store
-
+git add .
 # Windows system files
 Thumbs.db
 ehthumbs.db
